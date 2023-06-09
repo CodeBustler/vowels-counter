@@ -15,6 +15,7 @@ body {
   text-align: center;
   background-image: url('https://c8.alamy.com/comp/M566HP/abstract-letters-background-mix-alphabet-M566HP.jpg');
   background-repeat: no-repeat;
+  /* background-size: cover; */
 }
 
 h2 {
